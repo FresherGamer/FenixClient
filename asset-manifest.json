@@ -1,11 +1,11 @@
 {
   "files": {
     "main.css": "/static/css/main.3f58ce26.chunk.css",
-    "main.js": "/static/js/main.cfc526a3.chunk.js",
+    "main.js": "/static/js/main.6550ccc4.chunk.js",
     "runtime-main.js": "/static/js/runtime-main.c012fedc.js",
-    "static/js/2.a6aa8e56.chunk.js": "/static/js/2.a6aa8e56.chunk.js",
+    "static/js/2.1810502c.chunk.js": "/static/js/2.1810502c.chunk.js",
     "index.html": "/index.html",
-    "static/js/2.a6aa8e56.chunk.js.LICENSE.txt": "/static/js/2.a6aa8e56.chunk.js.LICENSE.txt",
+    "static/js/2.1810502c.chunk.js.LICENSE.txt": "/static/js/2.1810502c.chunk.js.LICENSE.txt",
     "static/media/4brata.8637205c.png": "/static/media/4brata.8637205c.png",
     "static/media/4brata.c540765c.png": "/static/media/4brata.c540765c.png",
     "static/media/4brata.d6d7b13b.png": "/static/media/4brata.d6d7b13b.png",
@@ -23,14 +23,15 @@
     "static/media/quadrat-top-left.649c0387.png": "/static/media/quadrat-top-left.649c0387.png",
     "static/media/ravnina.1b5cee9f.jpg": "/static/media/ravnina.1b5cee9f.jpg",
     "static/media/ravnina.6be9fd70.png": "/static/media/ravnina.6be9fd70.png",
+    "static/media/stickers.f060c598.png": "/static/media/stickers.f060c598.png",
     "static/media/usa.ef9cb545.png": "/static/media/usa.ef9cb545.png",
     "static/media/xrebet.6aefd35b.png": "/static/media/xrebet.6aefd35b.png",
     "static/media/xrebet.f22d6868.png": "/static/media/xrebet.f22d6868.png"
   },
   "entrypoints": [
     "static/js/runtime-main.c012fedc.js",
-    "static/js/2.a6aa8e56.chunk.js",
+    "static/js/2.1810502c.chunk.js",
     "static/css/main.3f58ce26.chunk.css",
-    "static/js/main.cfc526a3.chunk.js"
+    "static/js/main.6550ccc4.chunk.js"
   ]
 }
